@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I’m Anisha Salaskar, an IT student who enjoys building real-world web projects with a strong focus on clean UI and usability.<br>I’ve worked on internship-based projects, designed and deployed websites using Framer, and created portfolio-ready case studies.<br>I like structured work, clear problem-solving, and turning ideas into practical digital solutions.<br>Right now, my main focus is improving my technical depth, design thinking, and project presentation.
+I’m Anisha Salaskar, an IT Graduate passionate about software development, AI, and building real-world applications.<br>
+Skilled in Python, JavaScript, Flask, React, MySQL, and modern web technologies.<br> Always learning, building, and improving.
 
 
 # 💻 Tech Stack:
