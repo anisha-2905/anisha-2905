@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 I’m Anisha Salaskar, an IT Graduate passionate about software development, AI, and building real-world applications.<br>
-Skilled in Python, JavaScript, Flask, React, MySQL, and modern web technologies.<br> Always learning, building, and improving.
+<br> Always learning, building, and improving.
 
 
 # 💻 Tech Stack:
