@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I’m Anisha Salaskar, a 3rd-year IT student who enjoys building real-world web projects with a strong focus on clean UI and usability.<br>I’ve worked on internship-based projects, designed and deployed websites using Framer, and created portfolio-ready case studies.<br><br>I’m currently working on web & design projects along with an AI-based auto-grading system using the MERN stack.<br>I like structured work, clear problem-solving, and turning ideas into practical digital solutions.<br>Right now, my main focus is improving my technical depth, design thinking, and project presentation.
+I’m Anisha Salaskar, an IT student who enjoys building real-world web projects with a strong focus on clean UI and usability.<br>I’ve worked on internship-based projects, designed and deployed websites using Framer, and created portfolio-ready case studies.<br>I like structured work, clear problem-solving, and turning ideas into practical digital solutions.<br>Right now, my main focus is improving my technical depth, design thinking, and project presentation.
 
 
 # 💻 Tech Stack:
